@@ -1,5 +1,5 @@
-# algoritmos
-Algoritmos y estructura de datos
+# Algoritmos y estructura de datos
+
 1 Crear un algoritmo que recorra un array unidimensional conteniendo letras y números: [ “a”, 10, “b”, “hola”, 122, 15]
   a btenga un array que contenga solo letras
   b btenga un array que contenga sólo números
